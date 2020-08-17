@@ -5,5 +5,5 @@
     - Файлы с расширением .tfstate и содержащие внутри имени tfstate (*.tfstate.*)
     - Файл crash.log
     - Файлы с расширением .tfvars
-    - Файлы override.tf override.tf.json и любые файлы содержащиие в конце имени *_override.tf и*_override.tf.json
+    - Файлы override.tf override.tf.json и любые файлы содержащиие в конце имени *_override.tf и *_override.tf.json
     - Файлы .terraformrc и terraform.rc
