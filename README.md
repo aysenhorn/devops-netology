@@ -8,3 +8,4 @@
     - Файлы override.tf override.tf.json и любые файлы содержащиие в конце имени *_override.tf и*_override.tf.json
     - Файлы .terraformrc и terraform.rc
 3) Новая строчка к заданию 3 занятия 2.2.
+4) Новая строка для теста IDE.
